@@ -9,7 +9,7 @@ RUN jlink \
          --compress=2 \
          --output /javaruntime
 
-FROM centos:centos7.9.2009
+FROM centos:centos8
 
 RUN yum install -y \
     curl \
