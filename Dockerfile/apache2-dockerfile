@@ -1,6 +1,6 @@
 # This is apache web server on Ubuntu server
 
-FROM ubuntu:rolling
+FROM ubuntu:23.10
 
 MAINTAINER Ravi Shankar <arsr319@gmail.com>
 
